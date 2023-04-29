@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer Student",
+        "years": "2.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React 8/9/10"
         ],
         "technologies": [
           "REST API",
@@ -93,25 +93,19 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React Bootstrap",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Kaiser Permanente",
+        "title": "Cardiac Sonographer",
+        "years": "06.2018 - Current",
         "mainTech": [
-          "Angular 7/8"
+          "Implementing software development in healthcare"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "JavaScript"
         ]
       }
     ]
