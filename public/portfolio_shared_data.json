@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Zeegii Ulziibaatar",
+      "titles": [ "Software Developer, cardiac sonographer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ZG79",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/zeegii-ulziibaatar/",
+          "class": "fab fa-linkedin-in"
         }
       ],
       "image": "myProfile.jpg"
