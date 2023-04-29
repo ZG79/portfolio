@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": " Milk Shakes R Us",
+        "startDate": "2023",
+        "description": "We have a vision to create a milkshake recommendation website that helps people discover and enjoy delicious milkshakes tailored to their personal taste preferences. This addresses the pain point of people struggling to find milkshakes they enjoy, which can be frustrating and time-consuming. Our website aims to provide a curated selection of milkshake options based on users’ preferences, making it easier for people to find and enjoy their perfect milkshake.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://codefellows-201n30-team1.github.io/MilkshakesRUs/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Horned Animals Encyclopedia",
+        "startDate": "2023",
+        "description": "Let's find out everything about horned animals!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://plus.unsplash.com/premium_photo-1661963797725-2ad553c06a84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+          "https://images.unsplash.com/photo-1614301097778-a48646d3b792?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
         ],
-        "url": "https://github.com",
+        "url": "https://enchanting-manatee-369040.netlify.app",
         "technologies": [
           {
             "class": "devicon-react-original",
